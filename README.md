@@ -1,5 +1,5 @@
 # React Application link
-https://csc-hw5-ali.herokuapp.com/#/
+https://csc3916-projectfrontend.herokuapp.com/#/itemlist
 
 # Getting Started with Create React App
 
