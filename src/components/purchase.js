@@ -77,7 +77,7 @@ class Purchase extends Component
                 </FormGroup>
                 <FormGroup controlId="cvv">
                     <Col componentClass={FormLabel} sm={2}>
-                        CCV
+                        CVV
                     </Col>
                     <Col sm={5}>
                         <FormControl type="text" placeholder="3 digit cvv" className = {this.state.details.cvv === '' ? "input-err" : ""} onChange={this.updateDetails} value={this.state.details.cvv}  />
